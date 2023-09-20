@@ -1,0 +1,27 @@
+[0.530s] Invoking command in '/home/shrikar/Harley_ROS/build/my_package': PYTHONPATH=/home/shrikar/Harley_ROS/build/my_package/prefix_override:/home/shrikar/Harley_ROS/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shrikar/Harley_ROS/build/my_package/build --no-deps install_data
+[0.695s] running develop
+[0.697s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.697s]   warnings.warn(
+[0.699s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.699s]   warnings.warn(
+[0.790s] running egg_info
+[0.790s] creating my_package.egg-info
+[0.791s] writing my_package.egg-info/PKG-INFO
+[0.791s] writing dependency_links to my_package.egg-info/dependency_links.txt
+[0.791s] writing entry points to my_package.egg-info/entry_points.txt
+[0.791s] writing requirements to my_package.egg-info/requires.txt
+[0.791s] writing top-level names to my_package.egg-info/top_level.txt
+[0.791s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[0.792s] reading manifest file 'my_package.egg-info/SOURCES.txt'
+[0.792s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[0.793s] running build_ext
+[0.793s] Creating /home/shrikar/Harley_ROS/install/my_package/lib/python3.10/site-packages/my-package.egg-link (link to .)
+[0.793s] 
+[0.793s] Installed /home/shrikar/Harley_ROS/build/my_package
+[0.794s] running install_data
+[0.794s] creating /home/shrikar/Harley_ROS/install/my_package/share/ament_index
+[0.794s] creating /home/shrikar/Harley_ROS/install/my_package/share/ament_index/resource_index
+[0.794s] creating /home/shrikar/Harley_ROS/install/my_package/share/ament_index/resource_index/packages
+[0.794s] copying resource/my_package -> /home/shrikar/Harley_ROS/install/my_package/share/ament_index/resource_index/packages
+[0.794s] copying package.xml -> /home/shrikar/Harley_ROS/install/my_package/share/my_package
+[0.809s] Invoked command in '/home/shrikar/Harley_ROS/build/my_package' returned '0': PYTHONPATH=/home/shrikar/Harley_ROS/build/my_package/prefix_override:/home/shrikar/Harley_ROS/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shrikar/Harley_ROS/build/my_package/build --no-deps install_data

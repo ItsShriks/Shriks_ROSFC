@@ -1,0 +1,8 @@
+[console_scripts]
+base_node = my_package.Base:main
+hello = my_package.Pub:main
+logger_node = my_package.logger:main
+my_counter = my_package.Counter:main
+my_increment = my_package.Increment:main
+my_subscribe = my_package.Sub:main
+
