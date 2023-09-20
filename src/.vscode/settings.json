@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shrikar/Harley_ROS/build/my_package",
+        "/home/shrikar/Harley_ROS/install/my_package/lib/python3.10/site-packages",
+        "/home/shrikar/ros2_ws/build/python_basics",
+        "/home/shrikar/ros2_ws/install/python_basics/lib/python3.10/site-packages",
+        "/home/shrikar/ros2_ws/build/my_package",
+        "/home/shrikar/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shrikar/Harley_ROS/build/my_package",
+        "/home/shrikar/Harley_ROS/install/my_package/lib/python3.10/site-packages",
+        "/home/shrikar/ros2_ws/build/python_basics",
+        "/home/shrikar/ros2_ws/install/python_basics/lib/python3.10/site-packages",
+        "/home/shrikar/ros2_ws/build/my_package",
+        "/home/shrikar/ros2_ws/install/my_package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
