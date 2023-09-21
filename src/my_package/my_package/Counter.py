@@ -11,7 +11,7 @@ class counter(Node):
         self.publisher = self.create_publisher(String, "/world",10)
         #my_publisher = self.create_publisher(String, "Topic Name", QoS)
         timer = self.create_timer(0.69, self.my_callback)
-        self.i = -69
+        self.i = 0
     def my_callback(self) -> None:
         my_msg = String()
         my_msg.data = "Hello Guy Number %d, Channel to my Welcome !"% self.i
