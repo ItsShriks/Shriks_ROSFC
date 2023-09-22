@@ -1,0 +1,26 @@
+[0.488s] Invoking command in '/home/shrikar/Shriks_ROSFC/build/my_package': PYTHONPATH=/home/shrikar/Shriks_ROSFC/build/my_package/prefix_override:/home/shrikar/Shriks_ROSFC/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shrikar/Shriks_ROSFC/build/my_package/build --no-deps install_data
+[0.625s] running develop
+[0.627s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.627s]   warnings.warn(
+[0.628s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.628s]   warnings.warn(
+[0.719s] running egg_info
+[0.719s] writing my_package.egg-info/PKG-INFO
+[0.720s] writing dependency_links to my_package.egg-info/dependency_links.txt
+[0.720s] writing entry points to my_package.egg-info/entry_points.txt
+[0.720s] writing requirements to my_package.egg-info/requires.txt
+[0.720s] writing top-level names to my_package.egg-info/top_level.txt
+[0.721s] reading manifest file 'my_package.egg-info/SOURCES.txt'
+[0.722s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[0.722s] running build_ext
+[0.722s] Creating /home/shrikar/Shriks_ROSFC/install/my_package/lib/python3.10/site-packages/my-package.egg-link (link to .)
+[0.723s] Installing base_node script to /home/shrikar/Shriks_ROSFC/install/my_package/lib/my_package
+[0.723s] Installing hello script to /home/shrikar/Shriks_ROSFC/install/my_package/lib/my_package
+[0.723s] Installing logger_node script to /home/shrikar/Shriks_ROSFC/install/my_package/lib/my_package
+[0.723s] Installing my_counter script to /home/shrikar/Shriks_ROSFC/install/my_package/lib/my_package
+[0.723s] Installing my_increment script to /home/shrikar/Shriks_ROSFC/install/my_package/lib/my_package
+[0.723s] Installing my_subscribe script to /home/shrikar/Shriks_ROSFC/install/my_package/lib/my_package
+[0.723s] 
+[0.723s] Installed /home/shrikar/Shriks_ROSFC/build/my_package
+[0.723s] running install_data
+[0.740s] Invoked command in '/home/shrikar/Shriks_ROSFC/build/my_package' returned '0': PYTHONPATH=/home/shrikar/Shriks_ROSFC/build/my_package/prefix_override:/home/shrikar/Shriks_ROSFC/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/shrikar/Shriks_ROSFC/build/my_package/build --no-deps install_data
